@@ -2,6 +2,9 @@
 
 $ go run main.go
 
+# Código-Fonte
+O sistema é instruído para fazer a Análise combinatória dos números de 1 à 5
+
 # Saída do Console
 
 `10 combinações únicas`
